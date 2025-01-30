@@ -1,4 +1,4 @@
-Dies ist ein Projekt, Um Python schnell zu lernen. Es enthält verschiedene kleine Programme wie:
+
 
 # **Learn Python in 60 Minutes ⏳🐍**
 
