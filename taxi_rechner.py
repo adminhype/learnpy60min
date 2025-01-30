@@ -1,0 +1,20 @@
+print("========================================")
+print("|                                      |")
+print("|           ██████████████             |")
+print("|           █░░░░░░░░░░░░█             |")
+print("|           █░░███████░░█             |")
+print("|           █░░█░░█░░█░░█             |")
+print("|           █░░█░░█░░█░░█             |")
+print("|           ██████████████             |")
+print("|                                      |")
+print("|     WILKOMMEN BEIM TAXIRECHNER!      |")
+print("|                                      |")
+print("========================================")
+print("")
+print("")
+
+km = input("Gefahrene Kilometer? ")
+result = 5.7 + float(km) * 2.5
+
+print(f"Die Fahrt kostet dich {result}€.")
+input("Drücke Enter..")
